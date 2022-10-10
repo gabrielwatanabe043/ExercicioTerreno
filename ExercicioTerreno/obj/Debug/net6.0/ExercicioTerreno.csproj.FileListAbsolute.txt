@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\bin\Debug\net6.0\ExercicioTerreno.exe
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\bin\Debug\net6.0\ExercicioTerreno.deps.json
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\bin\Debug\net6.0\ExercicioTerreno.runtimeconfig.json
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\bin\Debug\net6.0\ExercicioTerreno.dll
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\bin\Debug\net6.0\ExercicioTerreno.pdb
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\obj\Debug\net6.0\ExercicioTerreno.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\obj\Debug\net6.0\ExercicioTerreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\obj\Debug\net6.0\ExercicioTerreno.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\obj\Debug\net6.0\ExercicioTerreno.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\obj\Debug\net6.0\ExercicioTerreno.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\obj\Debug\net6.0\ExercicioTerreno.dll
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\obj\Debug\net6.0\refint\ExercicioTerreno.dll
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\obj\Debug\net6.0\ExercicioTerreno.pdb
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\obj\Debug\net6.0\ExercicioTerreno.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Curso C# Lógica\Exercicios\ExercicioTerreno\ExercicioTerreno\obj\Debug\net6.0\ref\ExercicioTerreno.dll
